@@ -1,0 +1,3 @@
+ml\kerotori\app\infrastructure\core\Load.class
+ml\kerotori\app\infrastructure\core\Save.class
+ml\kerotori\app\infrastructure\dao\AddressDao.class

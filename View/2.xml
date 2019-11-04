@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_202" class="java.beans.XMLDecoder">
+ <object class="ml.kerotori.app.domain.Address">
+  <void property="address1">
+   <string>TEST1</string>
+  </void>
+  <void property="address2">
+   <string>TEST2</string>
+  </void>
+  <void property="birthday">
+   <object class="java.util.Date">
+    <long>939567600000</long>
+   </object>
+  </void>
+  <void property="name">
+   <string>ABC</string>
+  </void>
+  <void property="no">
+   <int>2</int>
+  </void>
+ </object>
+</java>
